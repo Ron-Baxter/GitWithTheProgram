@@ -1,0 +1,38 @@
+What is Git
+
+local use
+
+git-bash.exe
+git-cmd.exe
+
+shell
+
+What is GitHub
+
+ways to use it
+
+how you acess it
+
+create accounts
+
+connect via Http vs Ssh
+
+create ssh key
+
+connect
+
+clone repo
+
+git pull
+
+git status
+
+git add
+
+git status
+
+git commit
+
+git push
+
+The difference between git and git hub
